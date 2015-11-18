@@ -26,8 +26,7 @@ O Electron foi criado pela equipe do [GitHub](https://github.com/), para ser usa
 
 ## Artigos
 
-> Nenhum conteúdo ainda. Formato a ser seguido:
-> ```* [Título](link) por @PerfilDoTwitter```
+* [Primeiros passos com Electron](https://medium.com/@raphaelporto/primeiros-passos-com-electron-2cfbda828f0d) por @raphaelpor
 
 ## Vídeos
 
