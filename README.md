@@ -21,8 +21,7 @@ O Electron foi criado pela equipe do [GitHub](https://github.com/), para ser usa
 
 ## Apresentações
 
-> Nenhum conteúdo ainda. Formato a ser seguido:
-> ```* [Título](link) por @PerfilDoTwitter```
+* [Criando aplicações desktop com Electron](http://vilar.cc/2015/criando-aplicacoes-desktop-com-electron/) por @Feelsen
 
 ## Artigos
 
